@@ -1,5 +1,5 @@
 # 🍔 Food Delivery Business Analytics — SQL Project
-#📌 Project Overview
+# 📌 Project Overview
 
 **Food Delivery Business Analytics is a SQL-based data analytics project designed to analyze customer behavior, restaurant performance, order trends, revenue, delivery efficiency, and cancellations.**
 **The project uses a relational database containing 50 customers, 50 restaurants, and 100 food delivery orders. SQL queries are used to transform raw transactional data into meaningful business insights that can support data-driven decision-making.**
