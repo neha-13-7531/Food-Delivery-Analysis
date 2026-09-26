@@ -54,7 +54,7 @@
 - Python-based Exploratory Data Analysis
 
 # 👩‍💻 Skills Demonstrated
-## SQL | Data Analysis | MySQL | Data Cleaning | Data Aggregation | Business Analytics | Joins | CTEs | Subqueries | Window Functions | Data Visualization.##
+**SQL | Data Analysis | MySQL | Data Cleaning | Data Aggregation | Business Analytics | Joins | CTEs | Subqueries | Window Functions | Data Visualization.**
 
 # 📌 Project Outcome
 
